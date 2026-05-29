@@ -47,13 +47,25 @@ A working system without security is a liability.
 
 ---
 
-### Currently building
+### Currently shipping
 
-```
-📞  setterTrackerPro  →  pipeline tracker built for high-ticket setters
-🏋️  gymRat            →  training & progress tracker with full analytics
-🏗️  Vanguard          →  personal OS — my system for building and shipping
-```
+<table>
+  <tr>
+    <td>📞</td>
+    <td><b>Setter to Closer</b></td>
+    <td>Internal CRM built for high-ticket sales teams — lead locking, call logging, live presence, GHL sync. Built because nothing on the market was fast enough.</td>
+  </tr>
+  <tr>
+    <td>🧠</td>
+    <td><b>Vanguard</b></td>
+    <td>Personal behavioral OS — tracks voice notes, biometrics, decisions and habits over time. Not a productivity app. A long-term evidence layer of who you actually are vs. who you think you are.</td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><b>DTMS Platform</b></td>
+    <td>Exam platform for UDT operators (forklifts, cranes, hoists). PWA with exam simulation, admin panel, RLS security and analytics.</td>
+  </tr>
+</table>
 
 ---
 
